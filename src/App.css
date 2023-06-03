@@ -444,3 +444,7 @@ button{
   height: 30px;
   border-radius: 15px;
   }
+
+  #buscador{
+    text-align: center;
+  }
