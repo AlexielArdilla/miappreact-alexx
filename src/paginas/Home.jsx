@@ -1,11 +1,12 @@
 import React from "react";
-import BarraNav from "../componentes/BarraNav";
+import Productos from "../componentes/Productos";
 
 function Home() {
     
     return(
         <div>
-            <BarraNav/>
+            <h1>Productos</h1>
+            <Productos/>
         </div>
     );
 
