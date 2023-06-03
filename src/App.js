@@ -1,5 +1,5 @@
 import './App.css';
-import BarraNav from './componentes/BarraNav';
+import Home from './paginas/Home';
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Mercadito Libre</h1>
-      <BarraNav/>
+      <Home/>
     </div>
   );
 }
